@@ -1,0 +1,6 @@
+build/
+*.swp
+*~.nib
+*.pbxuser
+*.perspective
+*.perspectivev3
